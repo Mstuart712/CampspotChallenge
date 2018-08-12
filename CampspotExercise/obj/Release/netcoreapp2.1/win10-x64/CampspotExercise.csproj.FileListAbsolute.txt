@@ -1,0 +1,13 @@
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Release\netcoreapp2.1\win10-x64\CampspotExercise.exe
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Release\netcoreapp2.1\win10-x64\CampspotExercise.deps.json
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Release\netcoreapp2.1\win10-x64\CampspotExercise.runtimeconfig.json
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Release\netcoreapp2.1\win10-x64\CampspotExercise.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Release\netcoreapp2.1\win10-x64\CampspotExercise.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Release\netcoreapp2.1\win10-x64\CampspotExercise.pdb
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Release\netcoreapp2.1\win10-x64\CampspotExercise.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Release\netcoreapp2.1\win10-x64\CampspotExercise.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Release\netcoreapp2.1\win10-x64\CampspotExercise.AssemblyInfo.cs
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Release\netcoreapp2.1\win10-x64\CampspotExercise.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Release\netcoreapp2.1\win10-x64\CampspotExercise.pdb

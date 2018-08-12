@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampspotExercise", "CampspotExercise\CampspotExercise.csproj", "{98ACCA7A-4404-4A84-AC62-1988B416DC15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampspotExercise.IntegrationTest", "CampspotExercise.IntegrationTest\CampspotExercise.IntegrationTest.csproj", "{A9959C3A-B4D3-4863-971F-B9FEF80C6753}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{2E676C32-D828-4AB7-BF07-947D9A4DDA62}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98ACCA7A-4404-4A84-AC62-1988B416DC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98ACCA7A-4404-4A84-AC62-1988B416DC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98ACCA7A-4404-4A84-AC62-1988B416DC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98ACCA7A-4404-4A84-AC62-1988B416DC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9959C3A-B4D3-4863-971F-B9FEF80C6753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9959C3A-B4D3-4863-971F-B9FEF80C6753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9959C3A-B4D3-4863-971F-B9FEF80C6753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9959C3A-B4D3-4863-971F-B9FEF80C6753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A2C1AC-0A2B-4B5D-AC12-F1B7C8A0D9FF}
+	EndGlobalSection
+EndGlobal

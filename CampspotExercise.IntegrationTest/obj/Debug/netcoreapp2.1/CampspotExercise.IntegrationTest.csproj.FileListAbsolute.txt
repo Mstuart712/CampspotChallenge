@@ -1,0 +1,17 @@
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.deps.json
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.runtimeconfig.json
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.pdb
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\CampspotExercise.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\bin\Debug\netcoreapp2.1\CampspotExercise.pdb
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\obj\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\obj\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\obj\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\obj\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.AssemblyInfo.cs
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\obj\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.csproj.CopyComplete
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\obj\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise.IntegrationTest\obj\Debug\netcoreapp2.1\CampspotExercise.IntegrationTest.pdb

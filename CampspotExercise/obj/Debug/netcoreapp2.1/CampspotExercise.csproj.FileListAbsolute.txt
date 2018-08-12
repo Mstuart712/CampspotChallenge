@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Debug\netcoreapp2.1\CampspotExercise.deps.json
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Debug\netcoreapp2.1\CampspotExercise.runtimeconfig.json
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Debug\netcoreapp2.1\CampspotExercise.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Debug\netcoreapp2.1\CampspotExercise.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\bin\Debug\netcoreapp2.1\CampspotExercise.pdb
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Debug\netcoreapp2.1\CampspotExercise.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Debug\netcoreapp2.1\CampspotExercise.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Debug\netcoreapp2.1\CampspotExercise.AssemblyInfo.cs
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Debug\netcoreapp2.1\CampspotExercise.dll
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Debug\netcoreapp2.1\CampspotExercise.pdb
+C:\Users\Martin\Desktop\CampspotExercise\CampspotExercise\CampspotExercise\obj\Debug\netcoreapp2.1\CampspotExercise.csprojAssemblyReference.cache
