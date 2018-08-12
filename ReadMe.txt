@@ -4,7 +4,7 @@ How to run:
 Open the solution file in Visual Studio 2017 goto build Debug->Start Without Debugging
 OR
 In Windows 10 File Explorer goto the where you cloned or downloaded the CampspotExercise repository.
-From there navigate to \CampspotExercise\CampspotExercise\bin\Release\PublishOutput\win10-x64
+From there navigate to \CampspotExercise\bin\Release\PublishOutput\win10-x64
 In the win10-x64 folder right click and open the CampspotExercise Application file.
 Type in a valid file path to a json file formatted as a campsite search request and press enter.
 
