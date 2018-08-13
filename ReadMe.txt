@@ -1,7 +1,7 @@
 README
 
 How to run:
-Open the solution file in Visual Studio 2017 goto build Debug->Start Without Debugging
+Open the solution file in Visual Studio 2017 then goto build Debug->Start Without Debugging
 OR
 In Windows 10 File Explorer navigate to the directory you cloned or downloaded the CampspotExercise repository.
 From there navigate to \CampspotExercise\bin\Release\PublishOutput\win10-x64
@@ -30,7 +30,7 @@ Example JSON Format:
 
 
 How to build:
-This is a console application built with .net framework. You can build it by opening the solution file in 
+This is a console application built with .net core. You can build it by opening the solution file in 
 Visual Studio 2017 clicking the build menu and then Build Solution.
 
 Problem Solving Approach:
